@@ -56,5 +56,3 @@ app.get('/bad', (req, res)=>{
         errorMessage: 'Bad request'
     });
 });
-
-console.log('Change git');
